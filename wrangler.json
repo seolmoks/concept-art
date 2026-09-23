@@ -25,7 +25,7 @@
     {
       "binding": "DB",
       "database_name": "concept-art-db",
-      "database_id": "00000000-0000-4000-8000-000000000000",
+      "database_id": "2f3acefa-cfca-4743-98bc-47aaa59e2041",
       "migrations_dir": "migrations"
     }
   ],
