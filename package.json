@@ -1,0 +1,11 @@
+{
+  "name": "concept-art-cloudflare-deploy",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "node setup.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "4.92.0"
+  }
+}

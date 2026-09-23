@@ -1,0 +1,1 @@
+import{t as e}from"./framework~index~page~layout~loading~app-page-cache-render~app-page-cache~app-route-handler-dispatch-CCxkj1p-.js";var t=e();function n(){return(0,t.jsxs)(`main`,{className:`route-loading`,role:`status`,"aria-live":`polite`,children:[(0,t.jsx)(`span`,{className:`eyebrow`,children:`컨셉아트 아카이브`}),(0,t.jsx)(`p`,{children:`페이지를 불러오는 중입니다…`})]})}export{n as default};
